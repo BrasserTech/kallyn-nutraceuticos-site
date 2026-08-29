@@ -8,16 +8,16 @@ export type SiteContent = {
 };
 
 export const defaultContent: SiteContent = {
-  heroEyebrow: 'Ciencia, equilibrio e bem-estar',
-  heroTitle: 'Inovacao que transforma', heroAccent: 'saude.',
-  heroDescription: 'Desenvolvemos solucoes nutraceuticas que unem ciencia, natureza e tecnologia para promover uma vida mais saudavel.',
+  heroEyebrow: 'Ciência, equilíbrio e bem-estar',
+  heroTitle: 'Inovação que transforma', heroAccent: 'saúde.',
+  heroDescription: 'Desenvolvemos soluções nutracêuticas que unem ciência, natureza e tecnologia para promover uma vida mais saudável.',
   years: '+12', whatsapp: '5548999999999',
-  aboutTitle: 'Saude pensada por inteiro.',
-  aboutDescription: 'Na Kallyn, cada formula nasce do encontro entre pesquisa, ativos de qualidade e um olhar genuino para as necessidades das pessoas.',
-  productTitle: 'Solucoes inteligentes para cada fase da vida.',
-  productDescription: 'Linhas desenvolvidas com rigor, rastreabilidade e ingredientes selecionados para apoiar energia, equilibrio, imunidade e longevidade.',
-  productImage: '', qualityTitle: 'Qualidade que comeca na origem.',
-  qualityDescription: 'Da selecao dos insumos ao produto final, trabalhamos com processos consistentes e parceiros certificados.',
+  aboutTitle: 'Saúde pensada por inteiro.',
+  aboutDescription: 'Na Kallyn, cada fórmula nasce do encontro entre pesquisa, ativos de qualidade e um olhar genuíno para as necessidades das pessoas.',
+  productTitle: 'Soluções inteligentes para cada fase da vida.',
+  productDescription: 'Linhas desenvolvidas com rigor, rastreabilidade e ingredientes selecionados para apoiar energia, equilíbrio, imunidade e longevidade.',
+  productImage: '', qualityTitle: 'Qualidade que começa na origem.',
+  qualityDescription: 'Da seleção dos insumos ao produto final, trabalhamos com processos consistentes e parceiros certificados.',
   contactEmail: 'contato@kallyn.com.br',
 };
 
